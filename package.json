@@ -1,0 +1,28 @@
+{
+  "name": "fortune-cookie-solej77",
+  "version": "1.0.0",
+  "description": "Mensajes de la suerte",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solej77/fortune-cookie-solej77.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Jose Luis Garcia Lopez <Solej77>",
+  "license": "MIT",
+  "bin": {
+    "fortune-cookie": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "bugs": {
+    "url": "https://github.com/Solej77/fortune-cookie-solej77/issues"
+  },
+  "homepage": "https://github.com/Solej77/fortune-cookie-solej77#readme"
+}
